@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="enter_number">ENTER NUMBER</string>
+    <string name="meters">meters</string>
+    <string name="kilometers">kilometers</string>
+    <string name="centimeters">centimeters</string>
+    <string name="miles">miles</string>
+    <string name="enter_number_in_meters">enter number in meters</string>
+    <string name="enter_number_in_meter">Enter Number in meter</string>
+    <string name="millimeters">millimeters</string>
+    <string name="output">output :</string>
+    <string name="none">None</string>
+    <string name="enter_no_in_meters">ENTER NO. IN METERS</string>
+</resources>
